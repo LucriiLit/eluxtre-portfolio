@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LucriiLit/eluxtre-portfolio/static/css/main.d9342b95.css",
+    "main.js": "/LucriiLit/eluxtre-portfolio/static/js/main.1a43f70a.js",
+    "static/media/smuus-bubbles_01.mp4": "/LucriiLit/eluxtre-portfolio/static/media/smuus-bubbles_01.1b1baabac7496ecf36d7.mp4",
+    "static/media/SourceCodePro.ttf": "/LucriiLit/eluxtre-portfolio/static/media/SourceCodePro.9ef76af760ad69c7256d.ttf",
+    "static/media/img-noise-361x370_v2.png": "/LucriiLit/eluxtre-portfolio/static/media/img-noise-361x370_v2.b690fc572af5c3d335c1.png",
+    "index.html": "/LucriiLit/eluxtre-portfolio/index.html",
+    "main.d9342b95.css.map": "/LucriiLit/eluxtre-portfolio/static/css/main.d9342b95.css.map",
+    "main.1a43f70a.js.map": "/LucriiLit/eluxtre-portfolio/static/js/main.1a43f70a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9342b95.css",
+    "static/js/main.1a43f70a.js"
+  ]
+}
